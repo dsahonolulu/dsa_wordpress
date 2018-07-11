@@ -75,7 +75,7 @@ Template Name: Hompage 2017
 		              </div>
 
 		              <div class="action">
-		                <a href="https://seattledsa.org/platform/" class="dark small">Read full platform</a>
+		                <a href="https://dsahonolulu.com/platform/" class="dark small">Read full platform</a>
 		              </div>
 		            </div>
 
