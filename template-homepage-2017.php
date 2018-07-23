@@ -59,17 +59,18 @@ Template Name: Hompage 2017
 		                <button class="control next" aria-hidden="true"></button>
 		                <ol class="beliefs">
 		                  <li class="active">Everyone should be able to live a full and dignified life.</li>
-		                  <li>The economy must be run democratically; none shall be poor so another can be rich.</li>
-		                  <li>The abolition of poverty.</li>
-		                  <li>Affordable, humane housing for all.</li>
-		                  <li>Universal Medicare-for-all.</li>
-		                  <li>Free education: from pre-K to trades, college and beyond.</li>
-		                  <li>Democracy in the workplace; all workers have the right to organize.</li>
-		                  <li>Complete reproductive freedom in all forms.</li>
-		                  <li>An end to racial, gender and all other forms of oppression.</li>
-		                  <li>An end to punitive justice and mass incarceration.</li>
-		                  <li>An end to military and police aggression.</li>
-		                  <li>Democratic control over the environment to preserve the planet.</li>
+		                  <li>Democratic control of the economy</li>
+		                  <li>Support for Hawaiian Sovereignty</li>
+		                  <li>The abolition of poverty</li>
+		                  <li>Reproductive freedom in all forms</li>
+		                  <li>Housing for all</li>
+		                  <li>Universal Medicare-for-all</li>
+		                  <li>Free education from pre-K to trades, college and beyond</li>
+		                  <li>Democracy in the workplace; all workers have the right to organize</li>
+		                  <li>An end to racial, gender and all other forms of oppression</li>
+		                  <li>An end to punitive justice and mass incarceration</li>
+		                  <li>An end to military and police aggression</li>
+		                  <li>Democratic control over the environment</li>
 		                  <!-- ?php echo apply_filters('the_content', get_post_meta($post->ID, '_dsa_slide1', true)); ? -->
 		                </ol>
 		              </div>
