@@ -9,13 +9,16 @@
 		    	<header class="archive-header-card">
 		    		<h1 class="page-title"> <?php single_term_title(); ?> </h1>
 					<?php the_archive_description('<div class="taxonomy-description">', '</div>');?>
-		    	
-			    	<div class="button-group expanded"><!-- Chapter and Category Specific Subnavigation -->
+
+                    <!--
+                    Hide this until we can make it work
+			    	<div class="button-group expanded"><!-- Chapter and Category Specific Subnavigation --
 						<a href="http://seattledsa.org/dispatches/" class="button">All</a>
 						<a href="http://seattledsa.org/dispatches/actions/" class="button">Actions</a>
 						<a href="http://seattledsa.org/dispatches/education/" class="button">Education</a>
 						<a href="http://seattledsa.org/dispatches/minutes/" class="button">Minutes</a>
 					</div>
+                    -->
 				</header>
 				<hr />
 		    	<?php if (have_posts()) : while (have_posts()) : the_post(); ?>
