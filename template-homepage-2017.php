@@ -52,7 +52,7 @@ Template Name: Hompage 2017
 		          <div class="inner">
 
 		            <div class="contents">
-		              <h1>What we believe</h1>
+		              <h1>What we demand</h1>
 		              
 		              <div class="beliefs-carousel">
 		                <button class="control prev" aria-hidden="true"></button>
