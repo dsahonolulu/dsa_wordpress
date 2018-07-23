@@ -58,7 +58,7 @@ Template Name: Hompage 2017
 		                <button class="control prev" aria-hidden="true"></button>
 		                <button class="control next" aria-hidden="true"></button>
 		                <ol class="beliefs">
-		                  <li class="active">Everyone should be able to live a full and dignified life.</li>
+		                  <li class="active">Everyone should be able to live a full and dignified life</li>
 		                  <li>Democratic control of the economy</li>
 		                  <li>Support for Hawaiian Sovereignty</li>
 		                  <li>The abolition of poverty</li>
