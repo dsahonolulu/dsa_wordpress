@@ -168,8 +168,6 @@ Template Name: Hompage 2017
 		<div id="dsa-home-row-3" class="bg-DSAred">
 			<div class="row dsa-home-row-3-edit">
 				<div class="text-center"><img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/ui-foregrounds/calendar.svg" width="141" height="141" /><br /><h2 class="dsa-section-title txt-DSAwhite">Upcoming Events</h2></div>
-                <?php
-                echo 'WTAF'
                 ?>
 				<?php // Retrieve the next 5 upcoming events
 					$events = tribe_get_events( array(
@@ -183,8 +181,6 @@ Template Name: Hompage 2017
 		               		)
 		                )*/
 					) );
-
-					echo 'Events JSON: ' . json_encode($events);
 
 					function empty_content($str) {
 						    return trim(str_replace('&nbsp;','',strip_tags($str))) == '';
