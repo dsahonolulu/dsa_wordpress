@@ -18,5 +18,9 @@
 			</div>  <!-- end .main-content -->
 		</div> <!-- end .off-canvas-wrapper -->
 		<?php wp_footer(); ?>
+        <script type='text/javascript' src='https://dsahonolulu.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.2'></script>
+        <script type='text/javascript' src='https://dsahonolulu.org/wp-content/themes/dsa_wordpress/vendor/foundation-sites/dist//js/foundation.min.js?ver=6.2.3'></script>
+        <script type='text/javascript' src='https://dsahonolulu.org/wp-content/themes/dsa_wordpress/assets/js/scripts.js?ver=4.9.7'></script>
+        <script type='text/javascript' src='https://dsahonolulu.org/wp-content/themes/dsa_wordpress/assets/js/scripts.js?ver=4.9.7'></script>
 	</body>
 </html> <!-- end page -->
