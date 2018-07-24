@@ -219,8 +219,8 @@ Template Name: Hompage 2017
 		<div id="dsa-home-row-4" class="bg-dark-1">
 			<div class="row dsa-home-row-4-edit text-center txt-white">
 				<?php echo apply_filters('the_content', get_post_meta($post->ID, '_dsa_homepage_row_3', true)); ?>
+                <h2 class="dsa-section-title txt-DSAwhite">Dispatches <small class="txt-DSAred">From the DSH Blog</small></h2>
 			</div>
-            <h2 class="dsa-section-title txt-DSAwhite">Dispatches <small class="txt-DSAred">From the DSH Blog</small></h2>
 			<div class="row">
 				<?php
 					$how_many_last_posts = intval(get_post_meta($post->ID, 'archived-posts-no', true));
